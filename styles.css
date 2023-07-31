@@ -1,0 +1,12 @@
+
+body{background: -webkit-linear-gradient(left, #f9afdf, #b5caff);
+    background: -moz-linear-gradient(left, #f9afdf, #b5caff);
+    background: -ms-linear-gradient(left, #f9afdf, #b5caff);
+    background: -o-linear-gradient(left, #f9afdf, #b5caff);
+    background: linear-gradient(to right, #f9afdf, #b5caff);;}
+body{background-image: linear-gradient(to direçãoDoGradiente, PrimeiraCordoGradiente, SegundaCorDoGradiente);}
+body{text-align: center;}
+footer{text-align: left;}
+footer{padding-left: 20em; padding-right: 20em;}
+footer{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+footer{font-size: 20px;}

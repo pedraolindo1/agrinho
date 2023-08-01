@@ -10,3 +10,10 @@ footer{text-align: left;}
 footer{padding-left: 20em; padding-right: 20em;}
 footer{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
 footer{font-size: 20px;}
+header{background-color: rgb(250, 0, 196);}
+header{text-align: end;}
+header{padding-right: 10em;}
+header{background-image: linear-gradient(to right, rgb(228, 36, 170), rgb(75, 75, 218));}
+h3{text-align: center;}
+h4{text-align: center;}
+img{text-align: center;}
